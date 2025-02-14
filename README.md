@@ -71,5 +71,6 @@ This project is licensed under the MIT License.
 
 ---
 **Author:** Mantena Sai Pavan Teja Varma 
-**GitHub:** [)
+
+**GitHub:** {https://github.com/Pavan0517}
 
